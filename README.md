@@ -1,4 +1,4 @@
-# Manta Client Tools and SDK
+# Manta Client Tools and SDk
 
 [manta](http://apidocs.tritondatacenter.com/manta/nodesdk.html) is a Node.js SDK for
 interacting with Triton's Manta system.
