@@ -8,7 +8,7 @@ project.  See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 ## Installation
 
-[Node.js](https://nodejs.org/) must be installed.
+[Node.js](https://nodejs.org/) --must be installed.
 
 ### Command line utilities
 
